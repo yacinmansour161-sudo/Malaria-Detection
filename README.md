@@ -1,6 +1,4 @@
-# 🧪 Malaria Detection using Deep Learning
-
-# Malaria Cell Classification using CNN
+# 🧪 Malaria Cell Classification using CNN
 
 ## 1. Problem Description
 Malaria is a life-threatening disease caused by parasites transmitted through mosquito bites. 
@@ -80,5 +78,6 @@ justifying the use of deep learning for this task.
 Future improvements could include transfer learning with pre-trained models, increasing dataset 
 diversity, and deploying the model in real clinical environments. Additional evaluation on 
 external datasets would further validate robustness.
+
 
 
